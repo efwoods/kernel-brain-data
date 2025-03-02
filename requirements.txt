@@ -12,3 +12,4 @@ moviepy
 ipywidgets
 sounddevice
 portaudio19-dev
+opencv-python
