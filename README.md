@@ -1,6 +1,8 @@
 # kernel-brain-data
 This is a repository to analyze kernel brain data.
 
+![repo-image](img/lex-fridman-thumbnail.png)
+
  ## Objective: 
  The true test: Take an image of the brain and predict laughter. Focus on data collection of neural patterns. Then focus on collection of facial expression. Then focus on collection of human pose estimation. Then focus on audio signal processing. Incorporate a multi-modal model to accept audio, pose, facial sentiment, and neural activity as features to train a to predict periods of laughter. Test by supplying an image of the brain and determine if there is laughter from lex during this period.
 
