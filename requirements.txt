@@ -3,3 +3,9 @@ numpy
 pandas
 matplotlib
 mediapipe
+transformers
+datasets
+soundfile
+librosa
+pydub
+moviepy
