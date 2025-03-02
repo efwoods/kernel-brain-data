@@ -9,3 +9,6 @@ soundfile
 librosa
 pydub
 moviepy
+ipywidgets
+sounddevice
+portaudio19-dev
