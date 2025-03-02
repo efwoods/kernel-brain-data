@@ -6,7 +6,7 @@ data/
 __pycache__/
 *.py[cod]
 *$py.class
-
+**/notebooks/wav2vec2_checkpoints
 # C extensions
 *.so
 
