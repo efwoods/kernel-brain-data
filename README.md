@@ -1,5 +1,7 @@
 # kernel-brain-data
 This is a repository to analyze kernel brain data.
+This repo is developing a mixture-of-experts model consisting of multi modalities including facial expression, body pose, audio laughter detection, and image analysis of the kernel brain images.
+The kernel brain image model alone achieves 100% accuracy on the validaiton set and 65.5431% accuracy on real-world test data. The model uses pre-trained weights from resnet-18. The model may be overfit to the training data. Model performance could potentialy be improved with integration into the MoE model, data augmentation, or re-defining the network architecture. The model currently serves as a MVP.
 
 ![repo-image](img/lex-fridman-thumbnail.png)
 
