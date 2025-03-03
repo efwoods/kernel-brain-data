@@ -11,5 +11,7 @@ pydub
 moviepy
 ipywidgets
 sounddevice
-portaudio19-dev
 opencv-python
+torchvision
+torch
+torchaudio
