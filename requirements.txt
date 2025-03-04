@@ -16,3 +16,4 @@ torchvision
 torch
 torchaudio
 ffmpeg-python
+seaborn
